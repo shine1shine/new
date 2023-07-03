@@ -1,4 +1,4 @@
-.homeAboutUsSection .container .homeAboutUsSectionContent .homeAboutUsSectionContentGrid {
+/* .homeAboutUsSection .container .homeAboutUsSectionContent .homeAboutUsSectionContentGrid {
   grid-column-gap: 12.5em;
   align-items: center;
 }
@@ -51,6 +51,6 @@
   .homeAboutUsSection .container .homeAboutUsSectionContent .homeAboutUsSectionContentGrid .rightSide img {
     height: auto;
   }
-}
+} */
 
-/*# sourceMappingURL=homeaboutussection.css.map */
+# sourceMappingURL=homeaboutussection.css.map
